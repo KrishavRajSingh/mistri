@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/routes.ts","./src/lib/stripindent.ts","./src/lib/ai/constants.ts","./src/lib/ai/prompts.ts","./src/services/geminiservice.ts"],"version":"5.7.2"}
